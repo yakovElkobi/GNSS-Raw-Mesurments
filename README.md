@@ -15,4 +15,21 @@ $ python3 main.py
 
 After running the program you will get two outputs in the same folder <br>
 the first file kml and the second file st_file.csv <br>
-in st_file the first table 
+
+in st_file the table below is the ECEF coordinates of the satellite
+
+<p>&nbsp;</p>
+<p align="center">
+ <img width="800" height="200" src = https://github.com/yakovElkobi/GNSS-Raw-Mesurments/blob/main/photos/WhatsApp%20Image%202024-05-21%20at%2000.25.34.jpeg
+   </p>
+<p>&nbsp;</p>
+
+in this table is the latitude, longitude of the measuring device and is ECEF coordinates
+<p>&nbsp;</p>
+<p align="center">
+ <img width="800" height="300" src = https://github.com/yakovElkobi/GNSS-Raw-Mesurments/blob/main/photos/WhatsApp%20Image%202024-05-21%20at%2000.26.09.jpeg 
+   </p>
+<p>&nbsp;</p>
+
+## to run the kml file Enter [Google.earth](https://earth.google.com/)
+press file and import kml file
