@@ -1,6 +1,4 @@
 # GNSS-Raw-Mesurments
-## ID 305446627
-## ID 312708969
 ## Description:
 This assignment focuses on the basic principles of GNSS, in particular, you are asked to implement a naive positioning algorithm based on RMS (Root Mean Square) of selected (i.e., weighted) pseudo-ranges
 ## Technolegies:
